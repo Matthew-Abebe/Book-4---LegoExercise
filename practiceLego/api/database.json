@@ -1,0 +1,102 @@
+{
+  "legos": [
+    {
+      "creatorName": "Blocktronics",
+      "legoName": "Lego",
+      "legoColor": "Red",
+      "legoShape": "Square",
+      "id": 1
+    },
+    {
+      "creatorName": "Blocktronics",
+      "legoName": "Lego",
+      "legoColor": "Red",
+      "legoShape": "Square",
+      "id": 2
+    },
+    {
+      "creatorName": "Blocktronics",
+      "legoName": "Lego",
+      "legoColor": "White",
+      "legoShape": "Rectangle",
+      "id": 3
+    },
+    {
+      "creatorName": "Blocktronics",
+      "legoName": "Lego",
+      "legoColor": "Blue",
+      "legoShape": "Rectangle",
+      "id": 4
+    },
+    {
+      "creatorName": "Blocktronics",
+      "legoName": "Lego",
+      "legoColor": "Red",
+      "legoShape": "Rectangle",
+      "id": 5
+    },
+    {
+      "creatorName": "Blocktronics",
+      "legoName": "Lego",
+      "legoColor": "White",
+      "legoShape": "Rectangle",
+      "id": 6
+    },
+    {
+      "creatorName": "Blocktronics",
+      "legoName": "Lego",
+      "legoColor": "Yellow",
+      "legoShape": "Rectangle",
+      "id": 7
+    },
+    {
+      "creatorName": "Blocktronics",
+      "legoName": "Lego",
+      "legoColor": "Black",
+      "legoShape": "Rectangle",
+      "id": 8
+    },
+    {
+      "creatorName": "Blocktronics",
+      "legoName": "Lego",
+      "legoColor": "Blue",
+      "legoShape": "Rectangle",
+      "id": 9
+    },
+    {
+      "creatorName": "Blocktronics",
+      "legoName": "Lego",
+      "legoColor": "Red",
+      "legoShape": "Rectangle",
+      "id": 10
+    },
+    {
+      "creatorName": "Blocktronics",
+      "legoName": "Lego",
+      "legoColor": "2",
+      "legoShape": "Square",
+      "id": 11
+    },
+    {
+      "creatorName": "Blocktronics",
+      "legoName": "Lego",
+      "legoColor": "2",
+      "legoShape": "Square",
+      "id": 12
+    },
+    {
+      "creatorName": "Blocktronics",
+      "legoName": "Lego",
+      "legoColor": "2",
+      "legoShape": "Square",
+      "id": 13
+    },
+    {
+      "creatorName": "Blocktronics",
+      "legoName": "Lego",
+      "legoColor": "Green",
+      "legoShape": "Circle",
+      "id": 14
+    }
+  ]
+}
